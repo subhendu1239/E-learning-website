@@ -20,11 +20,6 @@ An interactive and responsive user interface design for an **E-Learning Platform
 
 This project represents the frontend of a modern e-learning website. It focuses on clean design, intuitive navigation, and accessibility to deliver educational content effectively. The UI includes homepage banners, course listings, testimonials, a login/signup module, and responsive layouts suitable for desktop and mobile screens.
 
-## 🌐 Live Preview
-
-[View Demo](https://yourusername.github.io/e-learning-ui)  
-(*Replace with your GitHub Pages link*)
-
 ## 🛠️ Built With
 
 - HTML5
@@ -43,3 +38,7 @@ This project represents the frontend of a modern e-learning website. It focuses 
 
 ## 📸 Screenshots
 
+<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/8009869c-75f4-4386-b0a7-8c3c4d96c4da" />
+
+
+<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/7888c63d-274b-45a4-b8a7-008560477d37" />
